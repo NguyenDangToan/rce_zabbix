@@ -16,7 +16,7 @@ import readline
 import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-ZABIX_ROOT = 'https://192.168.0.201/zabbix'	### Change this - Zabbix IP-address
+ZABIX_ROOT = 'https://ip/zabbix'	### Change this - Zabbix IP-address
 url = ZABIX_ROOT + '/api_jsonrpc.php'	### Don't edit
 
 login = 'Admin'		### Change this - Zabbix login
