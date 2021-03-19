@@ -7,6 +7,7 @@
 # Vendor Homepage: http://www.zabbix.com
 # Software Link: http://www.zabbix.com/download.php
 # Version: 2.2 - 3.0.3
+# Update by: NguyenDangToan
 # Tested on: Linux (Debian, CentOS)
 # CVE : N/A
 
